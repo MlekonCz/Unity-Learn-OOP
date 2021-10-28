@@ -14,6 +14,8 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/UserControl.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ProductivityUnit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ResourcePile.cs" />
+      <option value="$PROJECT_DIR$/Assets/Optimization/Scripts/OptimUnit.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="208HZy9gEic3PKOE0PrlIM67nq4" />
@@ -57,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635419354241</updated>
-      <workItem from="1635419360184" duration="2233000" />
+      <workItem from="1635419360184" duration="4587000" />
     </task>
     <servers />
   </component>
