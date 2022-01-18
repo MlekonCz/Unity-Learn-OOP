@@ -12,7 +12,7 @@ public class OptimUnit : MonoBehaviour
     private float timeToVelocityChange;
     private float currentAngularVelocity;
     private float timeToAngularVelocityChange;
-
+    
     private Vector3 areaSize;
 
     public void SetAreaSize(Vector3 size)
